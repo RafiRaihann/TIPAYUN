@@ -39,5 +39,8 @@ Tampilan
 ![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/7.png?raw=true)
 ![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/8.png?raw=true)
 ![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/9.png?raw=true)
+
+Tim
+https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/12.png
 ![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/10.png?raw=true)
 ![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/11.png?raw=true)
