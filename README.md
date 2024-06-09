@@ -27,4 +27,4 @@ Tujuan
 - Memberikan perkiraan waktu perjalanan yang membantu pengguna merencanakan perjalanan mereka dengan lebih efisien.
 
 Alur Program
-![alt text](https://drive.google.com/file/d/1HgendD32wGrkSzLaaPacsyGDMnbT71q4/view?usp=sharing?raw=true)
+![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/alur.png?raw=true)
