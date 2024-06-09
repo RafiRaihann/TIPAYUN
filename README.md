@@ -28,3 +28,16 @@ Tujuan
 
 Alur Program
 ![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/alur.png?raw=true)
+
+Tampilan
+![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/1.png?raw=true)
+![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/2.png?raw=true)
+![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/3.png?raw=true)
+![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/4.png?raw=true)
+![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/5.png?raw=true)
+![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/6.png?raw=true)
+![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/7.png?raw=true)
+![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/8.png?raw=true)
+![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/9.png?raw=true)
+![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/10.png?raw=true)
+![alt text](https://github.com/RafiRaihann/TIPAYUN/blob/main/tipayun/assets/content/11.png?raw=true)
