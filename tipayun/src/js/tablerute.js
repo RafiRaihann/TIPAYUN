@@ -343,7 +343,7 @@ function initMap() {
 
 var script = document.createElement("script");
 script.src =
-  "https://maps.googleapis.com/maps/api/js?key=AIzaSyAIeNojORa0X1xKq0OArjWKPaeH3VmPGbI&callback=initMap";
+  "linkapimaps";
 script.defer = true;
 script.async = true;
 document.head.appendChild(script);
